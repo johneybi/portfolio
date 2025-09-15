@@ -1,5 +1,5 @@
 baseurl: "/portfoilo" # the subpath of your site, e.g. /blog
-url: "https://johneybi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
+url: "https://johneybi.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
 title: "Designer Eun SK Portfolio"
 email: "eun082971@gmail.com"
 phone: "+21 123 456 5523"
